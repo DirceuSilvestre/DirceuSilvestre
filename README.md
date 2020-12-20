@@ -17,7 +17,7 @@
 <br />
 
 ## Suas habilidades são:
- - Aprender <img align="right" width="20%" src=https://media.giphy.com/media/cniU2lzZMjgcj18DcW/giphy.gif /> 
+ - Aprender <img align="right" width="20%" src=https://media.giphy.com/media/26gR2f01UTynjCPNS/giphy.gif /> 
  - Solucionar 
  - Criatividade
  - Bom humor
