@@ -2,7 +2,7 @@
 
 ### Men at Work. Come back soon, thanks!
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre)](https://github.com/DirceuSilvestre/github-readme-stats)
 
 
 
