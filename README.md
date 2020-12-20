@@ -19,7 +19,7 @@
 
 ## Suas habilidades são:
  - 
- - e nas horas vagas é um Power Ranger                                        <img width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
+ - e nas horas vagas é um Power Ranger                                        <img align="right" width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
 
    
 ## Seu super poder é:
