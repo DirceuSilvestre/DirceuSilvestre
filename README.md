@@ -12,9 +12,10 @@
 </h1>
 
 <br />
-  <img align="right" width="20%" src=https://media.giphy.com/media/MtIPR6C5okdt6/giphy.gif /> 
+  <img align="right" width="25%" src=https://media.giphy.com/media/3o7TKzhPqGvUDm3pba/giphy.gif /> 
   Em uma galáxia distante vive um Programador...
 
+<br />
 <br />
 <br />
 <br />
