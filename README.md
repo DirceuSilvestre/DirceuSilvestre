@@ -1,6 +1,6 @@
 
 
-
+<iframe src="https://giphy.com/embed/cniU2lzZMjgcj18DcW" width="361" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/power-rangers-forro-cniU2lzZMjgcj18DcW">via GIPHY</a></p>
 
 
   <img align="center" width="1024" height="428" src="https://realbusinessda.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/04/Ready-Player-One.jpg" />
@@ -20,7 +20,7 @@
 <br />
 
 ## Suas habilidades são:
- - Aprender <img align="right" height="60%" src=https://giphy.com/embed/cniU2lzZMjgcj18DcW /> 
+ - Aprender <img align="right" height="60%" src="https://giphy.com/embed/cniU2lzZMjgcj18DcW" /> 
  - Solucionar 
  - Criatividade
  - Bom humor
