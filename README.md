@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre)](https://github.com/DirceuSilvestre/github-readme-stats)
 
-![Dirceu's github stats](https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=tokyonight)
+![Dirceu's github stats]()
 
 
 
@@ -33,3 +33,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=tokyonight" alt="Mitsu325's github stats" />
+</p>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
+   </a>
+</p>
