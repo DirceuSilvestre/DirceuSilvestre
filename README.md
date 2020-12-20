@@ -9,7 +9,10 @@
 </p>
 
 <br />
-<center><font color="red" size="15px"><b><i>Texto centralizado com letra vermelha, tamanho 15px, negrito e itálico.</i></b></font></center>
+<font color="red" size="15px"><b><center><i>Texto centralizado com letra vermelha, tamanho 15px, negrito e itálico.</font></center></i></b>
+
+
+
 
 
 <p align="center">
