@@ -20,8 +20,8 @@
 <br />
 
 ## Suas habilidades são:
- - Aprender <img align="right" height="60%" src=https://media.giphy.com/media/cniU2lzZMjgcj18DcW/giphy.gif /> 
- - Solucionar <iframe src="https://giphy.com/embed/cniU2lzZMjgcj18DcW" width="361" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/power-rangers-forro-cniU2lzZMjgcj18DcW"></a></p>
+ - Aprender <img align="right" height="60%" src=https://giphy.com/embed/cniU2lzZMjgcj18DcW /> 
+ - Solucionar 
  - Criatividade
  - Bom humor
  - Organização
