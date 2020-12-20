@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+<p align="center">
+https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif
+</p>
+<br />
 
 <p align="right">
   <a href="https://badges.pufler.dev">
