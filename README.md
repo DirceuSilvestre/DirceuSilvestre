@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="65%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+  <img width="80%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
 
 <br />
@@ -28,7 +28,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
   <br /><br /><br /><br />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   <a href="https://badges.pufler.dev">
       <img align="right" src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
    </a>
