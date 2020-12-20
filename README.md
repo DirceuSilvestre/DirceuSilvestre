@@ -1,7 +1,7 @@
-<h1>
+<h1 align="center" color="blue">
                      🎉 Bem vindo ao meu 🌎 mundo 🎉
            </h1>
-   <font align="center" color="blue" size="60px">  </font>
+   <font  size="60px">  </font>
 
 
 
