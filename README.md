@@ -1,6 +1,6 @@
 
 
-  <img align="center" width="1024" height="400" src="https://realbusinessda.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/04/Ready-Player-One.jpg" />
+  <img align="center" width="1024" height="400" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 
 <br />
 
