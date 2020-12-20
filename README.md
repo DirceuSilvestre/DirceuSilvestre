@@ -1,18 +1,14 @@
-<h1 align="center" color="blue">
-                     🎉 Bem vindo ao meu 🌎 mundo <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
-
-           </h1>
-   <font  size="60px">  </font>
-
-
-
+<h1 align="center" color="blue" size="60px">
+                     🎉 Bem-vindo ao meu 🌎 mundo 😎
+</h1>
 
 <p align="center">
   <img width="100%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
 
-
+<p align="center">
 ### Men at Work. Come back soon, thanks!
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre" />
