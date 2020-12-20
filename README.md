@@ -1,4 +1,4 @@
-<h1 align="center" color="blue" size="60px">
+<h1 align="center"  size="60px">
                      🎉 Bem-vindo ao meu 🌎 mundo 😎
 </h1>
 
@@ -6,20 +6,17 @@
   <img width="100%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
 
-<p align="center">
-### Men at Work. Come back soon, thanks!
+<p align="center" color="yellow">
+  <b>Men at Work. Come back soon, thanks!</b>
 </p>
+
+<br /><br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre" />
 </p>
 
-
-
-
-
-
-
+<br />
 
 <!--
 **DirceuSilvestre/DirceuSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +36,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=tokyonight" />
 </p>
+
+<br />
 
 <p align="right">
   <a href="https://badges.pufler.dev">
