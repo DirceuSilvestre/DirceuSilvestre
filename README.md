@@ -1,6 +1,5 @@
-<head>
-                     <title><strong>🎉 Bem vindo ao meu 🌎 mundo 🎉</strong></title>
-           </head>
+<center><font color="blue" size="60px"><b>🎉 Bem vindo ao meu 🌎 mundo 🎉</b></font></center>
+
 <p align="center">
   <img width="100%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
