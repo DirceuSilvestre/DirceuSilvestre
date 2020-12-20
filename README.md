@@ -34,7 +34,7 @@
 
 
 
-<p align="right">
+<p align="center">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
    </a>
