@@ -12,14 +12,15 @@
 </h1>
 
 <br />
-  <i>Em uma galáxia distante vive um Programador...</i>
+  <i><b>Em uma galáxia distante vive um Programador...</b></i>
 
 <br />
 <br />
 
 
 ## Suas habilidades são:
- - Aprender <img align="right" width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />  
+ - Aprender <img align="right" width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif /> 
+ - Solucionar
  - Criatividade
  - Bom humor
  - Organização
