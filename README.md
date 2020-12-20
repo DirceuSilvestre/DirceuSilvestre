@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre)](https://github.com/DirceuSilvestre/github-readme-stats)
 
-
+![Dirceu's github stats](https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=tokyonight)
 
 
 
