@@ -10,10 +10,10 @@
 
 <br />
 
-<p align="center"><font  color="yellow" size="30px" face="Verdana">
-  <i>Men at Work. Come back soon, thanks!</i>
+<font align="center" color="yellow" size="30px" face="Verdana">
+  <big><i>Men at Work. Come back soon, thanks!</i></big>
 </font>
-</p>
+
 
 <br />
 
