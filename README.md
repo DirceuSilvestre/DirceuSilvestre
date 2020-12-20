@@ -20,7 +20,7 @@
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
-  <br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
 </p>
 
