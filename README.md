@@ -11,7 +11,7 @@
 <br />
 <font color="red" size="15px"><b><center><i>Texto centralizado com letra vermelha, tamanho 15px, negrito e itálico.</font></center></i></b>
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
