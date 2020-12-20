@@ -1,6 +1,6 @@
-<p align="center">
-  # 🎉 Bem vindo ao meu 🌎 mundo 🎉
-</p>
+<font size="20px" color="blue" align="center">
+  <strong>🎉 Bem vindo ao meu 🌎 mundo 🎉</strong>
+</font>
 <p align="center">
   <img width="100%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
