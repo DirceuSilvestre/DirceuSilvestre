@@ -1,4 +1,6 @@
-# Welcome to my profile! 👋
+<p align="center">
+  # 🎉 Bem vindo ao meu 🌎 mundo 🎉
+</p>
 <p align="center">
   <img width="100%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
