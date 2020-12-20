@@ -9,6 +9,8 @@
 </p>
 
 <br />
+<center><font color="red" size="15px"><b><i>Texto centralizado com letra vermelha, tamanho 15px, negrito e itálico.</i></b></font></center>
+
 
 <p align="center">
 <font align="center" color="yellow" size="30px" face="Verdana">
