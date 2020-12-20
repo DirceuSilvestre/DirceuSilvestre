@@ -19,7 +19,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=synthwave" />
 </p>
 
 <br />
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=synthwave" />
 </p>
 
 <br />
