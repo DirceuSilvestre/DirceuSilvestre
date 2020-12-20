@@ -20,13 +20,13 @@
 
 
 ## Suas habilidades são:
- - Aprender
+ - Aprender <img align="right" width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />  
  - Criatividade
  - Bom humor
  - Organização
  - Planejamento
  - Trabalho em Equipe
- - e nas horas vagas ser um Power Ranger <img align="right" width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />                                   
+ - e nas horas vagas ser um Power Ranger                                  
 
 ### Seu super poder é:
 - i see it i like it i learn it i do it
