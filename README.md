@@ -21,18 +21,15 @@
 ## Suas habilidades são:
 
  - 
- - e naas horas vagas é um Power Ranger
+ - e nas horas vagas é um Power Ranger
 <img align="right" width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
    
-   ###Seu super poder é:
-    - i see it i like it i learn it i do it
+###Seu super poder é:
+- i see it i like it i learn it i do it
 <br />
-<p align="left">
 
-</p>
-<p >
-<img align="right" width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
-</p>
+
+
 
 <br /><br />
 
