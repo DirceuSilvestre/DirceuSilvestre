@@ -1,5 +1,7 @@
-
-   <font align="center" color="blue" size="60px"> 🎉 Bem vindo ao meu 🌎 mundo 🎉 </font>
+<head>
+                     <title>🎉 Bem vindo ao meu 🌎 mundo 🎉</title>
+           </head>
+   <font align="center" color="blue" size="60px">  </font>
 
 
 
