@@ -9,8 +9,16 @@
 </h1>
 
 <br />
-  <i><b>Em uma galáxia distante vive um Programador...</b></i>
-
+<p align="center">
+  <i><b>Em 
+    uma 
+    galáxia 
+    distante 
+    vive 
+    um 
+    Programador
+    ...</b></i>
+</p>
 <br />
 <br />
 <br />
