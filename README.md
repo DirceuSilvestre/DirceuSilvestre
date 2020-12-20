@@ -1,18 +1,20 @@
-<h1 align="center"  size="20px">
-                     🎉 Bem-vindo ao meu 🌎 mundo 😎
-</h1>
+
 
 
 
 <p align="center">
-  <img width="80%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+  <img width="100%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
+
+<h1 align="center"  size="20px">
+                     🎉 Bem-vindo ao meu 🌎 mundo 😎
+</h1>
 
 <br />
 
 <p align="center">
 <font align="center" color="yellow" size="30px" face="Verdana">
-  <big><i>Men at Work. Come back soon, thanks!</i></big>
+  Em uma galáxia distante vive um Programador
 </font>
 </p>
 
