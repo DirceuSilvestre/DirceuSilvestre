@@ -3,7 +3,7 @@
 
 
 
-  <img align="center" width="100%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+  <img align="center" width="100%" src="https://realbusinessda.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/04/Ready-Player-One.jpg" />
 
 <br />
 
