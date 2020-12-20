@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img width="60%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+  <img width="100%" height="35%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
 
 <br />
