@@ -1,5 +1,9 @@
 # Welcome to my profile! 👋
 
+<img align="center" width="70%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+
+
+
 ### Men at Work. Come back soon, thanks!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre)](https://github.com/DirceuSilvestre/github-readme-stats)
