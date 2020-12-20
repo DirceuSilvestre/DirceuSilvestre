@@ -28,16 +28,18 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
   <br /><br /><br /><br />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
+  <br /><br />
+  <a href="https://badges.pufler.dev">
+      <img align="right" src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
+   </a>
 </p>
 
    <br /><br /><br /><br />
 
 
 
-<p align="left">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
-   </a>
+<p >
+  
 </p>
 
 <!--
