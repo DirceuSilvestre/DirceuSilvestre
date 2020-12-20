@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="65%" src="https://media.giphy.com/media/oxU7gskFCKEBixYYR7/giphy.gif" />
+  <img width="65%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
 
 <br />
@@ -33,6 +33,14 @@
 
 <br />
 
+<br />
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
+   </a>
+</p>
+
 <!--
 **DirceuSilvestre/DirceuSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,10 +59,4 @@ Here are some ideas to get you started:
 
 
 
-<br />
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
-   </a>
-</p>
