@@ -1,6 +1,13 @@
 # Welcome to my profile! 👋
 
 ### Men at Work. Come back soon, thanks!
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre
+
+
+
+
+
 <!--
 **DirceuSilvestre/DirceuSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
