@@ -10,8 +10,9 @@
 
 <br />
 
-<p align="center" color="yellow" size="30px">
-  Men at Work. Come back soon, thanks!
+<p align="center"><font  color="yellow" size="30px" face="Verdana">
+  <i>Men at Work. Come back soon, thanks!</i>
+</font>
 </p>
 
 <br />
