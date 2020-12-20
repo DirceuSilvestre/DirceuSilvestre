@@ -1,4 +1,4 @@
-<h1 align="center"  size="60px">
+<h1 align="center"  size="20px">
                      🎉 Bem-vindo ao meu 🌎 mundo 😎
 </h1>
 
@@ -9,14 +9,6 @@
 </p>
 
 <br />
-<font color="red" size="15px"><b><center><i>Texto centralizado com letra vermelha, tamanho 15px, negrito e itálico.</font></center></i></b>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 
 <p align="center">
 <font align="center" color="yellow" size="30px" face="Verdana">
