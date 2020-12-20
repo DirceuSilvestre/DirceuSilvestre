@@ -20,11 +20,11 @@
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
-  <br /><br /><br />
+  <br /><br /><br /><br /><br /><br />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
 </p>
 
-<br /><br /><br />
+<br />
 
 <!--
 **DirceuSilvestre/DirceuSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,10 +43,8 @@ Here are some ideas to get you started:
 
 
 
-<br />
-<br />
-<br />
 <p align="center">
+  <br /><br /><br />
 <img  width="40%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
 </p>
 <br />
