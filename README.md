@@ -26,7 +26,7 @@
  - E Trabalhar em Equipe como um Power Ranger                                 
 
 ### Seu super poder é:
-- i see it i like it i learn it i do it
+- I see it  I like it  I learn it  I do it
 
 <br />
 
