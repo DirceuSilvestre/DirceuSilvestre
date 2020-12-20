@@ -1,5 +1,5 @@
 <p align="center" color="blue" size="60px">
-   🎉 Bem vindo ao meu 🌎 mundo 🎉
+   <font> 🎉 Bem vindo ao meu 🌎 mundo 🎉 </font>
 </p>
 
 
