@@ -7,15 +7,15 @@
 <h1 align="center"  size="40px">
                      🎉 Bem-vindo ao meu 🌎 mundo 😎
 </h1>
-
+<br />
 <br />
 <p align="center">
   <i><b>Em<br>uma<br>galáxia<br>distante<br>vive<br>um<br>Programador...</b></i>
 </p>
 <br />
 <br />
-<br />
-<br />
+
+
 
 ## Suas habilidades são:
  - Aprender <img align="right" width="30%" src=https://media.giphy.com/media/26gR2f01UTynjCPNS/giphy.gif /> 
