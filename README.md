@@ -19,10 +19,10 @@
 <br />
 
 <p align="right">
-<img  width="40%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
+<img  width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
 </p>
 
-<br />
+<br /><br />
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
