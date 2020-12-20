@@ -2,36 +2,32 @@
 
 
 
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
-</p>
+
+  <img align="center" width="100%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+
 <br />
+
 <h1 align="center"  size="40px">
                      🎉 Bem-vindo ao meu 🌎 mundo 😎
 </h1>
 
 <br />
 
-<p align="left">
-<font color="yellow" size="30px" face="Verdana">
   Em uma galáxia distante vive um Programador...
-</font>
-</p>
-<br />
-## Suas habilidades são:
 
+<br />
+
+##Suas habilidades são:
  - 
- - e nas horas vagas é um Power Ranger
-<img align="right" width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
+ - e nas horas vagas é um Power Ranger <img align="left" width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
+
    
-###Seu super poder é:
+#Seu super poder é:
 - i see it i like it i learn it i do it
+
 <br />
-
-
-
-
-<br /><br />
+<br />
+<br />
 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
@@ -43,7 +39,7 @@
    </a>
 </p>
 
-   <br />
+<br />
 
 <!--
 **DirceuSilvestre/DirceuSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
