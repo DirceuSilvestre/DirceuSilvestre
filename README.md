@@ -1,7 +1,7 @@
 # Welcome to my profile! 👋
-
-<img align="center" width="70%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
-
+<p align="center">
+  <img align="center" width="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
+</p>
 
 
 ### Men at Work. Come back soon, thanks!
