@@ -13,9 +13,14 @@
 
 ### Men at Work. Come back soon, thanks!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre)](https://github.com/DirceuSilvestre/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre" />
+</p>
 
-![Dirceu's github stats]()
+
+
+
+
 
 
 
@@ -35,7 +40,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=tokyonight" alt="Mitsu325's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="right">
