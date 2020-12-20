@@ -2,15 +2,19 @@
                      🎉 Bem-vindo ao meu 🌎 mundo 😎
 </h1>
 
+<br />
+
 <p align="center">
   <img width="100%" height="50%" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
 </p>
 
-<p align="center" color="yellow">
-  <b>Men at Work. Come back soon, thanks!</b>
+<br />
+
+<p align="center" color="yellow" size="30px">
+  Men at Work. Come back soon, thanks!
 </p>
 
-<br /><br />
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre" />
