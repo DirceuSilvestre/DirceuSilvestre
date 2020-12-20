@@ -17,15 +17,21 @@
 
 <br />
 
+
+
 ## Suas habilidades são:
- - <img align="right" width="15%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
- - e nas horas vagas é um Power Ranger                                    
+ - <img align="right" width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
+ - Criatividade
+ - Bom humor
+ - Organização
+ - Planejamento
+ - e nas horas vagas ser um Power Ranger                                    
+
+### Seu super poder é:
+- i see it i like it i learn it i do it
    
 <br />
    
-## Seu super poder é:
-
-- i see it i like it i learn it i do it
 
 <br />
 <br />
