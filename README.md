@@ -18,8 +18,9 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
 </p>
 
 <br />
@@ -44,9 +45,8 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-<p>
-<img align="left" width="40%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
+<p align="center">
+<img  width="40%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif />
 </p>
 <br />
 
