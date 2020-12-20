@@ -17,7 +17,7 @@
 <br />
 
 ## Suas habilidades são:
- - Aprender <img align="right" height="60%" src="https://giphy.com/gifs/power-rangers-forro-cniU2lzZMjgcj18DcW" /> 
+ - Aprender <img align="right" width="35%" src="https://gph.is/g/E06B0Rp" /> 
  - Solucionar 
  - Criatividade
  - Bom humor
