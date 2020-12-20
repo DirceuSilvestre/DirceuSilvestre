@@ -25,8 +25,7 @@
  - Bom humor
  - Organização
  - Planejamento
- - Trabalho em Equipe
- - e nas horas vagas ser um Power Ranger                                  
+ - E Trabalhar em Equipe como um Power Ranger                                 
 
 ### Seu super poder é:
 - i see it i like it i learn it i do it
