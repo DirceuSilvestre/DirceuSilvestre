@@ -16,7 +16,8 @@
 
 <br />
 <br />
-
+<br />
+<br />
 
 ## Suas habilidades são:
  - Aprender <img align="right" width="25%" src=https://media.giphy.com/media/C3bWUpzWkiMve/giphy.gif /> 
