@@ -33,16 +33,16 @@
 
 ## Magias que conjura:
 
-- magias de escrita:
+- Escrita:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 
-- magias de manipulação:
+- Manipulação:
 <code><img height="32" src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="Pandas"/></code>
 <code><img height="32" src="https://miro.medium.com/max/805/0*lheOLngZH18XLnoq.jpg" alt="Matplotlib"/></code>
 <code><img height="32" src="https://www.seekpng.com/png/detail/410-4104604_here-is-how-to-add-a-shortcut-of.png" alt="JupyterNotebook"/></code>
 
-
+- Gerenciamento:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
  
