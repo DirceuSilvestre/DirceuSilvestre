@@ -66,11 +66,10 @@
 
 <br />
 <br />
-<br />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
-<br />
-<br />
+
 <br />
 <br />
 <br />
