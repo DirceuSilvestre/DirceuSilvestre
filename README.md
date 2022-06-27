@@ -48,7 +48,9 @@
 
 - Escrita:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
 
 <br />
 
@@ -61,6 +63,7 @@
 
 - Gerenciamento:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+<code><img height="32" src="https://www.pngwing.com/pt/free-png-pggqh" alt="Git / Github"/></code>
 
  
 
