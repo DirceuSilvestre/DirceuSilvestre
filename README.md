@@ -55,7 +55,8 @@
 <br />
 
 - Manipulação:
-<code><img height="32" src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="Pandas"/></code>
+
+<code><img height="32" src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" alt="Pandas"/></code>
 <code><img height="32" src="https://miro.medium.com/max/805/0*lheOLngZH18XLnoq.jpg" alt="Matplotlib"/></code>
 <code><img height="32" src="https://www.seekpng.com/png/detail/410-4104604_here-is-how-to-add-a-shortcut-of.png" alt="JupyterNotebook"/></code>
 
@@ -63,7 +64,7 @@
 
 - Gerenciamento:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
-<code><img height="32" src="https://www.pngwing.com/pt/free-png-pggqh" alt="Git / Github"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg" alt="Git / Github"/></code>
 
  
 
