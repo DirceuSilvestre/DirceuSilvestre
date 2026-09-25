@@ -28,7 +28,7 @@
 
 * 🔬 **Foco de Pesquisa em LLM aplicado ao Direito:** Classificação jurídica automatizada do Código Penal Brasileiro utilizando LLMs e avaliação através da métrica customizada **Acurácia Taxonômica Ponderada (ATP)**. Orientado pelo Prof. Dr. Leandro Alvim.
 
-* 🏆 **Reconhecimento Acadêmico/Jurídico:** Autor de proposta de enunciado aprovado para a **IV Jornada de Direito Processual Civil (Conselho da Justiça Federal - CJF, 2025)**, selecionada entre os cinco trabalhos representativos da Região Sudeste. Co-palestrante sobre *Letramento em IA para o Direito* na Semana Jurídica UFRRJ 2025. Ministra oficina prática de Pensamento Computacional aplicado ao Direito de nome *Advogado do Futuro: Oficina de Pensamento Computacional para Atuais e Futuros Operadores do Direito* na Semana Jurídica UFRRJ 2026.
+* 🏆 **Reconhecimento Acadêmico/Jurídico:** Autor de proposta de enunciado aprovado para a **IV Jornada de Direito Processual Civil (Conselho da Justiça Federal - CJF, 2025)**, selecionada entre os cinco trabalhos nacionais, representando cada região do país. Co-palestrante sobre *Letramento em IA para o Direito* na Semana Jurídica UFRRJ 2025. Ministra oficina prática de Pensamento Computacional aplicado ao Direito de nome *Advogado do Futuro: Oficina de Pensamento Computacional para Atuais e Futuros Operadores do Direito* na Semana Jurídica UFRRJ 2026.
 
 * 💻 **Engenharia Backend & Arquitetura:** Desenvolvimento focado em **Python (3.11+)** e **Java**, com aplicação prática do **Princípio da Responsabilidade Única (SRP)**, **Clean Architecture**, padrões **Factory/Strategy**, testes unitários automatizados com **Pytest (AAA)** e versionamento via **Conventional Commits**.
 
