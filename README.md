@@ -13,7 +13,7 @@
 <a href="https://github.com/DirceuSilvestre">
     <img src="https://img.shields.io/badge/GitHub-DirceuSilvestre-181717?style=flat-square&logo=github">
 </a>
-<a href="https://cjf.jus.br">
+<a href="https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/centro-de-estudos-judiciarios-1/eventos/jornadas/2025/OIVJDPC">
     <img src="https://img.shields.io/badge/Publica%C3%A7%C3%A3o-IV_Jornada_CJF-blue?style=flat-square&logo=googlescholar&logoColor=white">
 </a>
 
