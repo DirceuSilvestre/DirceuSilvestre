@@ -1,95 +1,122 @@
-<img align="center" width="960" height="300" src="https://media.giphy.com/media/35MG6KoNC3zyAkGes0/giphy.gif" />
-
-<br />
-<br />
-
-<h1 align="center" size="30px">
-                    🎉 Bem-vindo ao meu 🌎 mundo 😎
-</h1>
-
-<br />
-<br />
-
 <p align="center">
-  <i><b>Em<br>uma<br>galáxia<br>distante<br>vive<br>um<br>Engenheiro de Software BackEnd<br>...</b></i>
+<a href="https://github.com/DirceuSilvestre">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=580&height=80&lines=Dirceu+Silvestre+dos+Santos+Neto;Software+Engineer+%2B+CS+%40+UFRRJ;Backend+Engineering+%7C+LLMs+%7C+Legal+Tech" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://www.linkedin.com/in/dirceusilvestre/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:dirceu_silvestre@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-dirceu__silvestre%40hotmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/DirceuSilvestre">
+    <img src="https://img.shields.io/badge/GitHub-DirceuSilvestre-181717?style=flat-square&logo=github">
+</a>
+<a href="https://cjf.jus.br">
+    <img src="https://img.shields.io/badge/Publica%C3%A7%C3%A3o-IV_Jornada_CJF-blue?style=flat-square&logo=googlescholar&logoColor=white">
+</a>
+
+<br/> 
+
+<a href="https://github.com/DirceuSilvestre">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DirceuSilvestre&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 </p>
 
-<br />
-<br />
+* 🎓 **Bacharelado em Ciência da Computação** — [Universidade Federal Rural do Rio de Janeiro (UFRRJ)](https://portal.ufrrj.br/). Previsão de formatura em 2027.2 (Conclusão de TCC em 2026.2).
 
-## Suas habilidades são:
+* 🔬 **Foco de Pesquisa em LLM aplicado ao Direito:** Classificação jurídica automatizada do Código Penal Brasileiro utilizando LLMs e avaliação através da métrica customizada **Acurácia Taxonômica Ponderada (ATP)**. Orientado pelo Prof. Dr. Leandro Alvim.
 
-<br />
+* 🏆 **Reconhecimento Acadêmico/Jurídico:** Autor de proposta de enunciado aprovado para a **IV Jornada de Direito Processual Civil (Conselho da Justiça Federal - CJF, 2025)**, selecionada entre os cinco trabalhos representativos da Região Sudeste. Co-palestrante sobre *Letramento em IA para o Direito* na Semana Jurídica UFRRJ 2025. Ministra oficina prática de Pensamento Computacional aplicado ao Direito de nome *Advogado do Futuro: Oficina de Pensamento Computacional para Atuais e Futuros Operadores do Direito* na Semana Jurídica UFRRJ 2026.
 
- - Resolução e Gerenciamento de Problemas 
- - Adaptabilidade              
- - Criatividade            
- - Organização e Planejamento              <img align="right" width="30%" src="https://media.giphy.com/media/26gR2f01UTynjCPNS/giphy.gif" />
- - Comunicação Técnica
- - E Trabalhar em Equipe como um Power Ranger                                      
+* 💻 **Engenharia Backend & Arquitetura:** Desenvolvimento focado em **Python (3.11+)** e **Java**, com aplicação prática do **Princípio da Responsabilidade Única (SRP)**, **Clean Architecture**, padrões **Factory/Strategy**, testes unitários automatizados com **Pytest (AAA)** e versionamento via **Conventional Commits**.
 
-<br />
+---
 
-### Seu super poder é:
+<div align="center">
 
-<br />
+### 🖥️ Projetos & Arquiteturas
 
-- I see it, i like it, i learn it, i do it
+<table style="table-layout:fixed;width:100%">
+<tr><th colspan="3">LLM Aplicado ao Direito</th></tr>
+<tr><th width="40%">Projeto</th><th width="15%">Status</th><th width="45%">Tech Stack / Arquitetura</th></tr>
+<tr>
+  <td><a href="https://github.com/DirceuSilvestre"><b>TCC — Tipificação Penal via LLM e ATP</b></a></td>
+  <td><img src="https://img.shields.io/badge/Pesquisa-Ativa-green?style=flat-square"/></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python_3.11+-black?style=flat-square&logo=python">
+    <img src="https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest">
+    <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas">
+    <img src="https://img.shields.io/badge/REST_APIs-black?style=flat-square">
+  </td>
+</tr>
+<tr>
+  <td colspan="3">
+    <i>Sistema de classificação jurídica automatizada com desacoplamento de provedores (Gemini, OpenAI, Anthropic) via padrão Factory/Strategy, pipeline de persistência atômica em JSONL e avaliação por Acurácia Taxonômica Ponderada (ATP).</i>
+  </td>
+</tr>
+</table>
 
-<br />
-<br />
+<table style="table-layout:fixed;width:100%">
+<tr><th colspan="3">Engenharia Backend & Bancos de Dados</th></tr>
+<tr><th width="40%">Projeto</th><th width="15%">Status</th><th width="45%">Tech Stack / Arquitetura</th></tr>
+<tr>
+  <td><a href="https://github.com/DirceuSilvestre"><b>System Backend Database API</b></a></td>
+  <td><img src="https://img.shields.io/badge/Desenvolvimento-blue?style=flat-square"/></td>
+  <td>
+    <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi">
+    <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql">
+    <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=database">
+  </td>
+</tr>
+<tr>
+  <td colspan="3">
+    <i>API assíncrona integrada a banco relacional normalizado até a 3ª Forma Normal (3FN), com consultas otimizadas via junções estruturadas (JOINs) e modelagem ER rigorosa.</i>
+  </td>
+</tr>
+</table>
 
-## Magias que conjura:
+<table style="table-layout:fixed;width:100%">
+<tr><th colspan="3">Engenharia de Dados & Análise Geoespacial</th></tr>
+<tr><th width="40%">Projeto</th><th width="15%">Status</th><th width="45%">Tech Stack / Arquitetura</th></tr>
+<tr>
+  <td><a href="https://github.com/DirceuSilvestre"><b>Análise Geoespacial de Renda (RJ)</b></a></td>
+  <td><img src="https://img.shields.io/badge/Conclu%C3%ADdo-gray?style=flat-square"/></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+    <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas">
+    <img src="https://img.shields.io/badge/Geopy-black?style=flat-square">
+    <img src="https://img.shields.io/badge/Folium-black?style=flat-square">
+  </td>
+</tr>
+<tr>
+  <td colspan="3">
+    <i>Pipeline ETL automatizado sobre microdados do IBGE, realizando sanitização de bases brutas, geocoding de municípios e geração de mapas de calor interativos para análise socioeconômica.</i>
+  </td>
+</tr>
+</table>
 
-<br />
+</div>
 
-### 🗡️ Escrita (Linguagens & Frameworks BackEnd):
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/82859af3e2c0adbf6ea01e7ad180143aef6aa3ec/icons/spring/spring-original.svg" alt="SpringBoot"/></code>
+---
 
-<br />
+### 🛠️ Dominância Técnica & Boas Práticas
 
-### 🗄️ Persistência (Bancos de Dados & Estruturas):
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://img.shields.io/badge/SQL-Relational_Databases-blue?style=flat&logo=database" alt="SQL"/></code>
+* **Linguagens & Frameworks:** Python (3.11+), Java, FastAPI.
+* **Bancos de Dados & Persistência:** SQL, Modelagem ER, Álgebra Relacional, Normalização (3FN).
+* **Arquitetura & Engenharia de Software:** Clean Code, Single Responsibility Principle (SRP), Design Patterns (Factory, Strategy), Padrão DTO com tipagem estática.
+* **Qualidade & Processos:** Testes automatizados com Pytest (Padrão AAA — Arrange, Act, Assert), tratamento defensivo de exceções, Git (Conventional Commits).
 
-<br />
+---
 
-### 📊 Bagagem de Apoio (Ciência & Engenharia de Dados):
-<code><img height="32" src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" alt="Pandas"/></code>
-<code><img height="32" src="https://www.seekpng.com/png/detail/410-4104604_here-is-how-to-add-a-shortcut-of.png" alt="JupyterNotebook"/></code>
+<details>
+<summary>📈 Métricas e Estatísticas do GitHub</summary>
+<br>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas"/>
+</p>
 
-### 🛠️ Gerenciamento & Infraestrutura:
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg" alt="Git"/></code>
-<code><img height="32" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VSCode"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/linux/linux.png" alt="Linux"/></code>
-
-<br />
-<br />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirceuSilvestre&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DirceuSilvestre&show_icons=true&theme=radical" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<a href="https://badges.pufler.dev">
-      <img align="right" src="https://badges.pufler.dev/visits/DirceuSilvestre/DirceuSilvestre" alt="Visitors badge" />
-   </a>
+</details>
