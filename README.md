@@ -42,7 +42,7 @@
 <tr><th colspan="3">LLM Aplicado ao Direito</th></tr>
 <tr><th width="40%">Projeto</th><th width="15%">Status</th><th width="45%">Tech Stack / Arquitetura</th></tr>
 <tr>
-  <td><a href="https://github.com/DirceuSilvestre"><b>TCC — Tipificação Penal via LLM e ATP</b></a></td>
+  <td><a href="https://github.com/DirceuSilvestre/tipificacao-penal-por-llm-e-atp"><b>TCC — Tipificação Penal via LLM e ATP</b></a></td>
   <td><img src="https://img.shields.io/badge/Pesquisa-Ativa-green?style=flat-square"/></td>
   <td>
     <img src="https://img.shields.io/badge/Python_3.11+-black?style=flat-square&logo=python">
@@ -62,7 +62,7 @@
 <tr><th colspan="3">Engenharia Backend & Bancos de Dados</th></tr>
 <tr><th width="40%">Projeto</th><th width="15%">Status</th><th width="45%">Tech Stack / Arquitetura</th></tr>
 <tr>
-  <td><a href="https://github.com/DirceuSilvestre"><b>System Backend Database API</b></a></td>
+  <td><a href="https://github.com/DirceuSilvestre/system-backend-database"><b>System Backend Database API</b></a></td>
   <td><img src="https://img.shields.io/badge/Desenvolvimento-blue?style=flat-square"/></td>
   <td>
     <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi">
@@ -81,7 +81,7 @@
 <tr><th colspan="3">Engenharia de Dados & Análise Geoespacial</th></tr>
 <tr><th width="40%">Projeto</th><th width="15%">Status</th><th width="45%">Tech Stack / Arquitetura</th></tr>
 <tr>
-  <td><a href="https://github.com/DirceuSilvestre"><b>Análise Geoespacial de Renda (RJ)</b></a></td>
+  <td><a href="https://github.com/DirceuSilvestre/Concentracao-de-Renda"><b>Análise Geoespacial de Renda (RJ)</b></a></td>
   <td><img src="https://img.shields.io/badge/Conclu%C3%ADdo-gray?style=flat-square"/></td>
   <td>
     <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
